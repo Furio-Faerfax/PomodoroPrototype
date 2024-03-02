@@ -1,0 +1,6 @@
+/The displayable Tasks are not really limited, but there is no scrollbar yet
+/- = Title, 1 Done, 0 not done;-
+-;Titel
+0;Not Done
+/;Not Included
+1;Done
